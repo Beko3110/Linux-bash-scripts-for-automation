@@ -1,9 +1,5 @@
 #!/usr/bin/env bash
-# ------------------------------------------------------------------------ #
-# Script Name:   hardware_machine.sh 
-# Description:   Show informations about machine hardware.
-# Written by:    Amaury Souza
-# Maintenance:   Amaury Souza
+
 # ------------------------------------------------------------------------ #
 # Usage:         
 #       $ ./hardware_machine.sh

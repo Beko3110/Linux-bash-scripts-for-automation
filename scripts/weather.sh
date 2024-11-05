@@ -1,6 +1,6 @@
 #!/bin/bash
 # weather.sh
-# Copyright 2018 computer-geek64. All rights reserved.
+# A simple script to get the weather from wttr.in
 
 program=Weather
 version=1.1
